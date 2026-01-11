@@ -106,7 +106,7 @@ python main.py
 - Each puzzle comes with its correct solution
 - Puzzles are selected based on game mode and difficulty 
  
-<img width="1362" height="940" alt="Screenshot 2025-12-30 002337" src="https://github.com/user-attachments/assets/d444fc0d-ddbd-42f2-9b04-333544fa082d" />
+<img width="493" height="341" alt="image" src="https://github.com/user-attachments/assets/09ddffc8-7fbe-4d23-8c45-972c4bf2e268" />
 
 🧠 Algorithms Used 
 
