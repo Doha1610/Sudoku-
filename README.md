@@ -14,6 +14,7 @@
   - Easy 
   - Medium 
   - Hard 
+<img width="390" height="417" alt="image" src="https://github.com/user-attachments/assets/719a338e-59cc-44e9-9542-488f94eb84d1" />
 
  💡 Smart Hint system
 
