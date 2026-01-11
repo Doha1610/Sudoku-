@@ -8,6 +8,7 @@
 
   - Practice Mode: unlimited hints, relaxed gameplay 
   - Challenge Mode: limited hints, time tracking, and scoring system 
+<img width="404" height="386" alt="image" src="https://github.com/user-attachments/assets/cc662489-c51e-445d-af1b-c41e580c35d0" />
 
 🎚 Three difficulty levels 
 
@@ -56,7 +57,8 @@
 - Player-filled cells (blue) 
  - Hint / solver-filled cells (purple / green) 
 
- 
+ <img width="546" height="368" alt="image" src="https://github.com/user-attachments/assets/fb8bfcdc-1af9-4b65-ab8e-da977dd4bb91" />
+
 
 📂 Project Structure 
 
@@ -76,7 +78,7 @@ Sudoku-/
 
 ⚙️ Requirements 
 
-- Python 3.8+ 
+- Python 
 - Libraries: 
 
   +`tkinter` (included with Python) 
@@ -104,6 +106,7 @@ python main.py
 - Each puzzle comes with its correct solution
 - Puzzles are selected based on game mode and difficulty 
  
+<img width="1362" height="940" alt="Screenshot 2025-12-30 002337" src="https://github.com/user-attachments/assets/d444fc0d-ddbd-42f2-9b04-333544fa082d" />
 
 🧠 Algorithms Used 
 
